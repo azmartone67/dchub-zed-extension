@@ -1,0 +1,9 @@
+id = "dchub-mcp-server"
+name = "DC Hub"
+version = "0.1.0"
+schema_version = 1
+authors = ["Jonathan Martone <jonathan@dchub.cloud>"]
+description = "MCP server for DC Hub: live data center market, power and grid, energy price and fiber data for site selection."
+repository = "https://github.com/azmartone67/dchub-zed-extension"
+
+[context_servers.dchub]
